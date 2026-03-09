@@ -19,9 +19,6 @@ Repositório de evidências e prints para o desafio MS-900 (Identidade, Licença
 - Licenciamento via grupo para 3 grupos; grupo dinâmico (`department eq "Vendas"`).
 - Bloquear login de 1 utilizador; forçar reset de password; renomear UPN; exportar lista (CSV).
 
-**Abordagem**
-- `New-AzureADUser` / `New-MgUser`; membership rule para grupo dinâmico; atribuição de SKU ao grupo; `AccountEnabled=$false`; `ForceChangePasswordNextSignIn=$true`; `Set-AzureADUser` (UPN); `Export-Csv`.
-
 ---
 
 ## Módulo 2 – Licenças, Subscrições e Custos
