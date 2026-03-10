@@ -2,7 +2,7 @@
 # N2-MS900 – Desafio Oficial (Implementação)
 
 Repositório de evidências e prints para o desafio MS-900 (Identidade, Licenças, Exchange Online e Teams).  
-**Objetivo:** demonstrar a execução das tarefas via Microsoft 365 admin center / PowerShell (AzureAD/MS Graph).
+**Objetivo:** demonstrar a execução das tarefas via Microsoft 365 admin center  AzureAD).
 
 ## Estrutura do Repo
 /
